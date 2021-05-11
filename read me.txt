@@ -1,0 +1,1 @@
+This project was created using pycharm, sqlite3 and tkinter
